@@ -9,3 +9,6 @@ In this notebook, we will be using sklearn to conduct hierarchical clustering on
 
 # Project 3: DBSCAN Notebook
 In this notebook, we will use DBSCAN to cluster a couple of datasests. 
+
+# Project 4: GMM Clustering and Cluster Validation
+In this notebook, we'll generate a Gaussian dataset and attempt to cluster it and see if the clustering matches the original labels of the generated dataset.
